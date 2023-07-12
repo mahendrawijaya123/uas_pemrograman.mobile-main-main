@@ -1,4 +1,8 @@
-# uas_mobile
+# uas_Pemograman_Mobile
+
+## Nama     :Mahendra wijaya
+## Nim      :312010249
+## Kelas    :TI.20.A3
 
 A new Flutter project.
 
